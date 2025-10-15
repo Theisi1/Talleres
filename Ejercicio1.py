@@ -6,5 +6,5 @@ n = 0
 while abs(2 - suma) > error:
     suma += 1/(2**n)
     n += 1
-print(n)
+
 
